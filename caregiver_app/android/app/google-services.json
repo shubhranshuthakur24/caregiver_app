@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321487049217",
+    "project_id": "gvhealth-web",
+    "storage_bucket": "gvhealth-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321487049217:android:1b1bc997ce0ae9d904e600",
+        "android_client_info": {
+          "package_name": "com.example.givershealths"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321487049217-bp2jvcieakp8j2rg553p08c4a4phno9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0detckyML4FvZ-4EM2BoPshSRetNFKzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321487049217-bp2jvcieakp8j2rg553p08c4a4phno9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
